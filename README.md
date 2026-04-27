@@ -27,11 +27,17 @@ Classificação das principais lojas, como Iguatemi Campinas, Shopping Vila Velh
 
 ##  Exemplo do dashboard
 ![Dashboard de Vendas](./images/preview.png)
+![Apresentação em PDF](./images/Modehaus_Resultados_2024.pdf)
+![Apresentação em PowerPoint](./images/Modehaus_Resultados_2024_apresentação.pptx)
+
 
 ##  Estrutura do projeto
 - `data/` → base de dados (`vendas.xlsx`)  
 - `reports/` → relatório em Power BI (`Dash-Desafio-1.pbix`)  
-- `images/` → captura do dashboard (`preview.png`)  
+- `images/` → captura do dashboard (`preview.png`)
+- `images/` → arquivo de apresentação em PDF (`Modehaus_Resultados_2024.pdf`)  
+- `images/` → arquivo de apresentação em PowerPoint (`Modehaus_Resultados_2024_apresentação.pptx`)  
 - `README.md` → explicação detalhada do projeto  
+
 
 ---
