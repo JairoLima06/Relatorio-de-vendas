@@ -1,5 +1,9 @@
 # Relatório de Vendas
 
+<p align="center">
+  <img src="https://github.com/JairoLima06/Relatorio-de-vendas/blob/main/images/capa.PNG" alt="Descrição da imagem">
+</p>
+
 ##  Descrição
 Este dashboard foi desenvolvido no **Power BI** para análise de vendas de uma rede varejista.  
 O relatório apresenta métricas essenciais como faturamento total, ticket médio e ranking de filiais, permitindo uma visão clara do desempenho comercial.
