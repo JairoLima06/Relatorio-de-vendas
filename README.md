@@ -30,7 +30,7 @@ Exibe os produtos mais vendidos, destacando a linha de **ternos e sapatos** como
 Classificação das principais lojas, como Iguatemi Campinas, Shopping Vila Velha e Bourbon Shopping SP, responsáveis pelo maior faturamento.
 
 ##  Exemplo do dashboard
-![Dashboard de Vendas](./images/preview.png)
+![Dashboard de Vendas](./images/dashboard.PNG)
 ![Apresentação em PDF](./images/Modehaus_Resultados_2024.pdf)
 ![Apresentação em PowerPoint](./images/Modehaus_Resultados_2024_apresentação.pptx)
 
