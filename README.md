@@ -35,7 +35,7 @@ Analisado os produtos mais vendidos pela filial e o Faturamento total.
 
 ##  Exemplo do dashboard
 ![Dashboard de Vendas](./images/dashboard.PNG)
-![Apresentação em PDF](./images/Modehaus_Resultados_2024.pdf)
+![Apresentação em PDF](./images/Modehaus_Resultados_2024.pdf) <p>
 ![Apresentação em PowerPoint](./images/Modehaus_Resultados_2024_apresentação.pptx)
 
 
