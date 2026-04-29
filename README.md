@@ -20,7 +20,7 @@ Fornecer uma ferramenta interativa para acompanhamento das vendas, auxiliando na
 ##  Principais indicadores
 - **Faturamento Total:** R$ 42 Mi  
 - **Total de Produtos:** 120  
-- **Ticket Médio:** R$ 191,49  
+- **Ticket Médio:** R$ 8 Mi  
 - **Ranking de Filiais** com base no faturamento  
 
 ### Faturamento por Produtos
@@ -28,6 +28,10 @@ Exibe os produtos mais vendidos, destacando a linha de **ternos e sapatos** como
 
 ### Ranking de Filiais
 Classificação das principais lojas, como Iguatemi Campinas, Shopping Vila Velha e Bourbon Shopping SP, responsáveis pelo maior faturamento.
+
+### Resultados do Iguatemi Campinas
+Analisado os produtos mais vendidos pela filial e o Faturamento total.
+
 
 ##  Exemplo do dashboard
 ![Dashboard de Vendas](./images/dashboard.PNG)
@@ -38,7 +42,7 @@ Classificação das principais lojas, como Iguatemi Campinas, Shopping Vila Velh
 ##  Estrutura do projeto
 - `data/` → base de dados (`vendas.xlsx`)  
 - `reports/` → relatório em Power BI (`Dash-Desafio-1.pbix`)  
-- `images/` → captura do dashboard (`preview.png`)
+- `images/` → captura do dashboard (`dashboard.PNG`)
 - `images/` → arquivo de apresentação em PDF (`Modehaus_Resultados_2024.pdf`)  
 - `images/` → arquivo de apresentação em PowerPoint (`Modehaus_Resultados_2024_apresentação.pptx`)  
 - `README.md` → explicação detalhada do projeto  
