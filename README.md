@@ -38,6 +38,8 @@ Analisado os produtos mais vendidos pela filial e o Faturamento total.
 ![Apresentação em PDF](./images/Modehaus_Resultados_2024.pdf) <p>
 ![Apresentação em PowerPoint](./images/Modehaus_Resultados_2024_apresentação.pptx)
 
+### [Confira aqui o dashboard do projeto.](https://app.powerbi.com/groups/me/reports/8a9d90c5-f9ef-45ea-b121-a0a325ad3b76/5f239043360c003bad92?language=pt-BR&experience=power-bi)
+
 
 ##  Estrutura do projeto
 - `data/` → base de dados (`vendas.xlsx`)  
